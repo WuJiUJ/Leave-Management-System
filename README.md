@@ -1,1 +1,1 @@
-# Student-Info-Management
+# Leave-Management-System
